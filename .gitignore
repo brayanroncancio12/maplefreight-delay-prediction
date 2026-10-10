@@ -1,0 +1,11 @@
+# Secret -NEVER commit
+.env
+
+# Jupyter auto-saves
+.ipynb_checkpoints/
+
+#Python cache
+__pycache__/
+
+# macOS system files
+.DS_Store
